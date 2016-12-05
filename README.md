@@ -16,7 +16,7 @@ index.php - start
             
             |--DefaultController.php (this is just example to show how to determine contoller class.
             
---Core      |--App.php (Load confiure data from config.php)
+--Core           |--App.php (Load confiure data from config.php)
             
             |--bootstrap.php (run App class to set up global configure file)
             
