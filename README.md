@@ -9,6 +9,7 @@ PHP 5.5.9 or higher
 MySQL - Optional
 
 File Structure
+
 index.php - start
 
 --Controller|--controllers.php (register controller based on URI,,similiar to Laravel)
