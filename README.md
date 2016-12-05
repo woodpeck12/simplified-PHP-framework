@@ -1,7 +1,7 @@
 # simplified-PHP-framework
 mimic major php  framework
 
-Show the concept of routing and controller define similiar to Larael.
+Show the concept of routing and controller define similiar to Laravel.
 
 Requirements:
 
